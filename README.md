@@ -48,3 +48,14 @@ Helix Core is a proprietary software and is subject to the terms and conditions 
 4. Click on Next to navigate to the **Configure stack options** page. No additional configuration is required here. (Add tags if necessary. )
 
 5. Click on Next to navigate to review page. Scroll down to the bottom, and you will see check boxes in the **Capabilities** section. Check them all. Ensure to check all the check boxes. Click on **Create Stack**, and then the building process starts. It will take about 5-10 minutes to complete. When **CREATE_COMPLETE** is displayed, the building process is complete.
+
+## LINKS
+
+The documentation above failed to work. Found a few official references with Helix specifying resources of type c6, but couldn't be identified.
+
+[Helix code deploy AWS](https://www.perforce.com/sites/default/files/pdfs/whitepaper-helix-core-deploy-aws.pdf)
+[Install Helix on AWS](https://www.perforce.com/sites/default/files/pdfs/datasheet-install-helix-core-on-aws.pdf)
+[Building Perforce Helix core on AWS](https://aws.amazon.com/blogs/gametech/building-perforce-helix-core-on-aws-part-1/)
+
+
+
